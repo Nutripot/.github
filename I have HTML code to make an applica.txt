@@ -1,0 +1,3 @@
+I have HTML code to make an application of nutrition planner and database which can create user given recioe to generate new recipie with existing database to make it more healthy and reform exoctic. i want you to review my code if neccessery make modification which suits my objective mentioned. develop a front end application interface.
+
+Add ingrediendt input box with scroll down option according to ICMR and USDA with different age group RDA
